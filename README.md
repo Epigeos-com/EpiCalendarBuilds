@@ -1,2 +1,2 @@
-This repo is only meant for saving builds to be published
-# For the source code see **[EpiCalendar](https://github.com/Epigeos-com/EpiCalendar)**
+This repo only contains the official builds.
+# For the source code see **[Reo](https://github.com/Epigeos-com/Reo)**
